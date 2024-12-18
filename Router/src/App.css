@@ -1,0 +1,11 @@
+.Navbar {
+  border: 2px solid red;
+}
+
+button{
+  padding: 15px;
+  border: 2px solid red;
+  box-shadow: 2px 5px 5px 2px grey;
+  border-radius: 30px;
+  margin-left: 35px;
+}
